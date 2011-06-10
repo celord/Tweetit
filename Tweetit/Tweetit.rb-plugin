@@ -1,0 +1,10 @@
+[RB Plugin]
+Loader=python
+Module=Tweetit
+IAge=1
+Name=Tweetit
+Description=Tweet what you are listenning to
+Authors=Cesar García <celord@gmail.com>
+Copyright=GPL
+Website=http://celord.blogspot.com
+
